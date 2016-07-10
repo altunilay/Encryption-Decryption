@@ -1,6 +1,6 @@
 # Encryption-Decryption
 
-Encryption and Decryption in CBC mode by using ECB mode in OpenSsl blowship.
+Encryption and Decryption in CBC mode by using ECB mode in OpenSsl blowfish.
 
 For compile:
 
